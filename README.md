@@ -1,6 +1,6 @@
 # E-Ticaret Admin Paneli
 
-Modern bir React tabanlı admin paneli, e-ticaret sisteminizi yönetmek için tasarlanmıştır. Kullanıcı yönetimi, ürün takibi, sipariş yönetimi ve detaylı analizler sunar.
+Modern bir React tabanlı admin paneli, Vibe Coding yönetmi ve React bilgisiyle, React kullanarak e-ticaret sisteminizi yönetmek için tasarlanmıştır. Kullanıcı yönetimi, ürün takibi, sipariş yönetimi ve detaylı analizler sunar.
 
 ## ✨ Özellikler
 
@@ -59,7 +59,7 @@ src/
 
 # E-Commerce Admin Panel
 
-A modern React-based admin panel designed for managing an e-commerce system. It offers user management, product tracking, order management, and detailed analytics.
+A modern React-based admin panel designed for managing, With Vibe Coding and React knowledge, using React an e-commerce system. It offers user management, product tracking, order management, and detailed analytics.
 
 ## ✨ Features
 
