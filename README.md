@@ -87,8 +87,10 @@ A modern React-based admin panel designed for managing an e-commerce system. It 
 - **JWT Authentication**
 - **Bcrypt** (password hashing)
 
-## 🚀 Setup
+## 🚀 Setup Instructions
+
 ### Step 1: Clone the Repository
+To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/[username]/e-ticaret-admin.git
 Step 2: Install Dependencies
